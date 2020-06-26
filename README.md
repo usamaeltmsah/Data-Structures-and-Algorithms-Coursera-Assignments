@@ -2,7 +2,6 @@
 
 ## Course 1: [Algorithmic Toolbox](Algorithmic%20Toolbox/)
 
-[week 2](#Week%202)
 ### Week 1 - [Programming Challenges](Algorithmic%20Toolbox/Programming%20Challenges/)
 
 - [Sum Of Two Digits](Algorithmic%20Toolbox/Programming%20Challenges/Sum%20of%20Two%20Digits/)
